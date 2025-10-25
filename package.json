@@ -1,0 +1,27 @@
+{
+  "name": "tusingmact6340contract",
+  "version": "1.0.0",
+  "description": "\"# TusingMACT6340Contract\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamTusing/TusingMACT6340Contract.git"
+  },
+  "keywords": [],
+  "author": "Samantha J. Tusing",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SamTusing/TusingMACT6340Contract/issues"
+  },
+  "homepage": "https://github.com/SamTusing/TusingMACT6340Contract#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3",
+    "hardhat": "^3.0.9"
+  }
+}
